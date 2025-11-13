@@ -1,2 +1,2 @@
 # python-for-cybersecurity
-Python for Cybersecurity book - exercises
+1. Automate The Boring Stuff with Python - exercises, notes
